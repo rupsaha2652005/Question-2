@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation and up to 20 hours of battery life.",
+      "price": 99.99,
+      "category": "Electronics",
+      "stock": 150
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "description": "A waterproof fitness watch with heart rate monitoring, GPS, and sleep tracking features.",
+      "price": 149.99,
+      "category": "Wearable Tech",
+      "stock": 300
+    },
+    {
+      "id": 3,
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes and a two-minute timer.",
+      "price": 39.99,
+      "category": "Personal Care",
+      "stock": 500
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop",
+      "description": "High-performance gaming laptop with a 15.6-inch display, 16GB RAM, and 1TB SSD.",
+      "price": 1199.99,
+      "category": "Computers",
+      "stock": 75
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with deep bass, 12 hours of battery life, and waterproof design.",
+      "price": 49.99,
+      "category": "Audio",
+      "stock": 200
+    }
+  ]
+  
